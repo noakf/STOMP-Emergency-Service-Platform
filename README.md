@@ -1,5 +1,4 @@
-# SPL251 – Assignment 3
-### Emergency Service Messaging Platform (STOMP Client & Server)
+# Emergency Service Messaging Platform (STOMP Client & Server)
 *Java • C++ • Networking • Multithreading • STOMP Protocol*
 
 ---
